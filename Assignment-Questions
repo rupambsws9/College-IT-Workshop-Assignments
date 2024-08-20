@@ -1,2 +1,9 @@
-1. value swipe using 3rd variable in c++ - 1.cpp
-2. value swipe without using 3rd variable in c++ - 2.cpp
+All Questions
+
+1. WAP in c++ to print prime numbers - 1.cpp
+2. WAP in C++ to print factorial of any variable. (Input to be given by the user) - 2.cpp
+3. value swipe using 3rd variable in c++ - 3.cpp
+4. value swipe without using 3rd variable in c++ - 4.cpp
+5. WAP in c++ using base class and derived class - 5.cpp
+6. WAP in c++ where you have take user input for student name,roll no ,marks of three subjects and make avg of
+   the subjects and show them ,write this program using base class and derived class -6.cpp

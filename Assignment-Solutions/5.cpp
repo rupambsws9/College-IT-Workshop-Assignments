@@ -1,4 +1,4 @@
-//WAP in c++ using base class and drived class
+//WAP in c++ using base class and derived class
 #include<iostream>
 using namespace std;
 
