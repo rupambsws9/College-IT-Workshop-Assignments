@@ -1,4 +1,4 @@
-//check the user input year is leap year or not
+//check the user input year is leap year or not in c++
 #include<iostream>
 using namespace std;
 
