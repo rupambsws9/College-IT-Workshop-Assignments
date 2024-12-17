@@ -7,8 +7,8 @@ int main() {
     int a, b, c , d , gcd;
     cout << "Enter two numbers: ";
     cin >> a >> b;
-     c = a;
-     d = b;
+        c = a;
+        d = b;
     while(b!=0){
         gcd = b;
         b = a%b;

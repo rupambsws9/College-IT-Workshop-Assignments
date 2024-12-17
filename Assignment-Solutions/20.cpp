@@ -1,0 +1,18 @@
+//WAP in c++ to find the factorial of number using recurssion
+#include<iostream>
+using namespace std;
+int fact(int n){
+    if(n<=1){
+        return 1;
+    }else{
+        return n*fact(n-1);
+    }
+}
+int main(){
+    int num,factorial;
+    cout << "Enter the number: ";
+    cin >> num;
+    factorial=fact(num);
+    cout << "Factorial of " << num << " is: " << factorial << endl;
+    return 0;
+}
